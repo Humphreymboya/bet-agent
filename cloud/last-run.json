@@ -1,0 +1,11 @@
+{
+  "at": "2026-11-18T20:37:13Z",
+  "event": "shift_end",
+  "summary": {
+    "scans": 0,
+    "bets": 0,
+    "failures": 0,
+    "quota": null
+  },
+  "state": {}
+}

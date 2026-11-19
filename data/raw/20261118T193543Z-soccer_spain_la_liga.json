@@ -1,0 +1,4080 @@
+[
+ {
+  "id": "dcee36f9b8a9989972b6d4ddde76c4c7",
+  "sport_key": "soccer_spain_la_liga",
+  "sport_title": "La Liga - Spain",
+  "commence_time": "2026-11-20T20:00:00Z",
+  "home_team": "Athletic Bilbao",
+  "away_team": "Espanyol",
+  "bookmakers": [
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.49
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.99
+       },
+       {
+        "name": "Draw",
+        "price": 4.58
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "smarkets",
+    "title": "Smarkets",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.51
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.7
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.52
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.9
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_fr",
+    "title": "Winamax (FR)",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.4
+       },
+       {
+        "name": "Espanyol",
+        "price": 5.6
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betsson",
+    "title": "Betsson",
+    "last_update": "2026-11-18T19:34:44Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.46
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "onexbet",
+    "title": "1xBet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.54
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.99
+       },
+       {
+        "name": "Draw",
+        "price": 4.47
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "marathonbet",
+    "title": "Marathon Bet",
+    "last_update": "2026-11-18T19:35:06Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:02Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfred_uk",
+    "title": "Betfred (UK)",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill",
+    "title": "William Hill",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "nordicbet",
+    "title": "Nordic Bet",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.45
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.9
+       },
+       {
+        "name": "Draw",
+        "price": 4.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "tipico_de",
+    "title": "Tipico",
+    "last_update": "2026-11-18T19:35:20Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:20Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.45
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas",
+    "title": "LeoVegas",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.25
+       },
+       {
+        "name": "Draw",
+        "price": 4.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_fr",
+    "title": "Unibet (FR)",
+    "last_update": "2026-11-18T19:35:16Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.39
+       },
+       {
+        "name": "Espanyol",
+        "price": 5.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_de",
+    "title": "Winamax (DE)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.45
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_uk",
+    "title": "Unibet (UK)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.48
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "paddypower",
+    "title": "Paddy Power",
+    "last_update": "2026-11-18T19:34:09Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:09Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.33
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_eu",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.51
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.8
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.52
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.9
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_uk",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:32Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.51
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.8
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.52
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.9
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "skybet",
+    "title": "Sky Bet",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.33
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betway",
+    "title": "Betway",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.45
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "boylesports",
+    "title": "BoyleSports",
+    "last_update": "2026-11-18T19:35:36Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:36Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.4
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "ladbrokes_uk",
+    "title": "Ladbrokes",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coral",
+    "title": "Coral",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.33
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_sb_uk",
+    "title": "Betfair Sportsbook",
+    "last_update": "2026-11-18T19:34:59Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:59Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.47
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "everygame",
+    "title": "Everygame",
+    "last_update": "2026-11-18T19:31:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:31:29Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betvictor",
+    "title": "Bet Victor",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.4
+       },
+       {
+        "name": "Espanyol",
+        "price": 5.75
+       },
+       {
+        "name": "Draw",
+        "price": 4.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "codere_it",
+    "title": "Codere (IT)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.48
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.6
+       },
+       {
+        "name": "Draw",
+        "price": 4.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "virginbet",
+    "title": "Virgin Bet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.48
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.1
+       },
+       {
+        "name": "Draw",
+        "price": 4.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_nl",
+    "title": "Unibet (NL)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas_se",
+    "title": "LeoVegas (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.47
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.1
+       },
+       {
+        "name": "Draw",
+        "price": 4.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "livescorebet",
+    "title": "LiveScore Bet",
+    "last_update": "2026-11-18T19:34:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:58Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.49
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_se",
+    "title": "Unibet (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.51
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.75
+       },
+       {
+        "name": "Draw",
+        "price": 4.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "grosvenor",
+    "title": "Grosvenor",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.48
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coolbet",
+    "title": "Coolbet",
+    "last_update": "2026-11-18T19:35:01Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:01Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.5
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "casumo",
+    "title": "Casumo",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.44
+       },
+       {
+        "name": "Espanyol",
+        "price": 6.5
+       },
+       {
+        "name": "Draw",
+        "price": 4.33
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betano_uk",
+    "title": "Betano (UK)",
+    "last_update": "2026-11-18T19:33:48Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:33:48Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.4
+       },
+       {
+        "name": "Espanyol",
+        "price": 5.75
+       },
+       {
+        "name": "Draw",
+        "price": 4.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "matchbook",
+    "title": "Matchbook",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.51
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.4
+       },
+       {
+        "name": "Draw",
+        "price": 4.8
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.52
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.8
+       },
+       {
+        "name": "Draw",
+        "price": 4.9
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Athletic Bilbao",
+        "price": 1.48
+       },
+       {
+        "name": "Espanyol",
+        "price": 7.0
+       },
+       {
+        "name": "Draw",
+        "price": 4.65
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "9881e56a732493272e688663b26cd37f",
+  "sport_key": "soccer_spain_la_liga",
+  "sport_title": "La Liga - Spain",
+  "commence_time": "2026-11-21T13:00:00Z",
+  "home_team": "Alav\u00e9s",
+  "away_team": "Deportivo La Coru\u00f1a",
+  "bookmakers": [
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.22
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.47
+       },
+       {
+        "name": "Draw",
+        "price": 3.42
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "smarkets",
+    "title": "Smarkets",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.28
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.55
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.36
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.65
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_fr",
+    "title": "Winamax (FR)",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.05
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.05
+       },
+       {
+        "name": "Draw",
+        "price": 3.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betsson",
+    "title": "Betsson",
+    "last_update": "2026-11-18T19:34:44Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.18
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.45
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "onexbet",
+    "title": "1xBet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.26
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.53
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "marathonbet",
+    "title": "Marathon Bet",
+    "last_update": "2026-11-18T19:35:06Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:02Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.2
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.44
+       },
+       {
+        "name": "Draw",
+        "price": 3.36
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfred_uk",
+    "title": "Betfred (UK)",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.2
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill",
+    "title": "William Hill",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "nordicbet",
+    "title": "Nordic Bet",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.45
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "tipico_de",
+    "title": "Tipico",
+    "last_update": "2026-11-18T19:35:20Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:20Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas",
+    "title": "LeoVegas",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.2
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_fr",
+    "title": "Unibet (FR)",
+    "last_update": "2026-11-18T19:35:16Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.05
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_de",
+    "title": "Winamax (DE)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.25
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "boylesports",
+    "title": "BoyleSports",
+    "last_update": "2026-11-18T19:35:36Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:36Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.1
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.25
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betway",
+    "title": "Betway",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "paddypower",
+    "title": "Paddy Power",
+    "last_update": "2026-11-18T19:34:09Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:09Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "skybet",
+    "title": "Sky Bet",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_sb_uk",
+    "title": "Betfair Sportsbook",
+    "last_update": "2026-11-18T19:34:59Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:59Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.2
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "everygame",
+    "title": "Everygame",
+    "last_update": "2026-11-18T19:31:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:31:29Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.1
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.25
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "ladbrokes_uk",
+    "title": "Ladbrokes",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.1
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coral",
+    "title": "Coral",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betvictor",
+    "title": "Bet Victor",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.05
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.12
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "codere_it",
+    "title": "Codere (IT)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.23
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.15
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas_se",
+    "title": "LeoVegas (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.07
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.45
+       },
+       {
+        "name": "Draw",
+        "price": 3.15
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "virginbet",
+    "title": "Virgin Bet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.05
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.4
+       },
+       {
+        "name": "Draw",
+        "price": 3.15
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "livescorebet",
+    "title": "LiveScore Bet",
+    "last_update": "2026-11-18T19:34:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:58Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.07
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.45
+       },
+       {
+        "name": "Draw",
+        "price": 3.15
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_nl",
+    "title": "Unibet (NL)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.16
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "grosvenor",
+    "title": "Grosvenor",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.1
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_se",
+    "title": "Unibet (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.18
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pmu_fr",
+    "title": "PMU (FR)",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 1.97
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.25
+       },
+       {
+        "name": "Draw",
+        "price": 3.0
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coolbet",
+    "title": "Coolbet",
+    "last_update": "2026-11-18T19:35:01Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:01Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.25
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.45
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_eu",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.28
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.55
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.32
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_uk",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:32Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.28
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.55
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.32
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "casumo",
+    "title": "Casumo",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.15
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betano_uk",
+    "title": "Betano (UK)",
+    "last_update": "2026-11-18T19:33:48Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:33:48Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.05
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.12
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "matchbook",
+    "title": "Matchbook",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.28
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.55
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.32
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.65
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Alav\u00e9s",
+        "price": 2.24
+       },
+       {
+        "name": "Deportivo La Coru\u00f1a",
+        "price": 3.43
+       },
+       {
+        "name": "Draw",
+        "price": 3.37
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ebe638278f4d70eaf211ad5be9795fa0",
+  "sport_key": "soccer_spain_la_liga",
+  "sport_title": "La Liga - Spain",
+  "commence_time": "2026-11-21T15:15:00Z",
+  "home_team": "Rayo Vallecano",
+  "away_team": "Valencia",
+  "bookmakers": [
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.95
+       },
+       {
+        "name": "Valencia",
+        "price": 4.16
+       },
+       {
+        "name": "Draw",
+        "price": 3.58
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "smarkets",
+    "title": "Smarkets",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.97
+       },
+       {
+        "name": "Valencia",
+        "price": 4.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.7
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.98
+       },
+       {
+        "name": "Valencia",
+        "price": 4.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_fr",
+    "title": "Winamax (FR)",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.84
+       },
+       {
+        "name": "Valencia",
+        "price": 3.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betsson",
+    "title": "Betsson",
+    "last_update": "2026-11-18T19:34:44Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.92
+       },
+       {
+        "name": "Valencia",
+        "price": 4.05
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "onexbet",
+    "title": "1xBet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.97
+       },
+       {
+        "name": "Valencia",
+        "price": 4.21
+       },
+       {
+        "name": "Draw",
+        "price": 3.69
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "marathonbet",
+    "title": "Marathon Bet",
+    "last_update": "2026-11-18T19:35:06Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:02Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.92
+       },
+       {
+        "name": "Valencia",
+        "price": 4.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.6
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfred_uk",
+    "title": "Betfred (UK)",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.95
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill",
+    "title": "William Hill",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.91
+       },
+       {
+        "name": "Valencia",
+        "price": 3.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "nordicbet",
+    "title": "Nordic Bet",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.92
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "tipico_de",
+    "title": "Tipico",
+    "last_update": "2026-11-18T19:35:20Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:20Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.87
+       },
+       {
+        "name": "Valencia",
+        "price": 4.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas",
+    "title": "LeoVegas",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.92
+       },
+       {
+        "name": "Valencia",
+        "price": 3.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_fr",
+    "title": "Unibet (FR)",
+    "last_update": "2026-11-18T19:35:16Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.8
+       },
+       {
+        "name": "Valencia",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_de",
+    "title": "Winamax (DE)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.9
+       },
+       {
+        "name": "Valencia",
+        "price": 3.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_uk",
+    "title": "Unibet (UK)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.93
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "boylesports",
+    "title": "BoyleSports",
+    "last_update": "2026-11-18T19:35:36Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:36Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.83
+       },
+       {
+        "name": "Valencia",
+        "price": 3.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betway",
+    "title": "Betway",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.91
+       },
+       {
+        "name": "Valencia",
+        "price": 3.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "paddypower",
+    "title": "Paddy Power",
+    "last_update": "2026-11-18T19:34:09Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:09Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.87
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "skybet",
+    "title": "Sky Bet",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.85
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_eu",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.96
+       },
+       {
+        "name": "Valencia",
+        "price": 4.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.7
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.98
+       },
+       {
+        "name": "Valencia",
+        "price": 4.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_uk",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:32Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.96
+       },
+       {
+        "name": "Valencia",
+        "price": 4.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.7
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.98
+       },
+       {
+        "name": "Valencia",
+        "price": 4.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_sb_uk",
+    "title": "Betfair Sportsbook",
+    "last_update": "2026-11-18T19:34:59Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:59Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.91
+       },
+       {
+        "name": "Valencia",
+        "price": 4.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "everygame",
+    "title": "Everygame",
+    "last_update": "2026-11-18T19:31:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:31:29Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.9
+       },
+       {
+        "name": "Valencia",
+        "price": 3.85
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coral",
+    "title": "Coral",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.95
+       },
+       {
+        "name": "Valencia",
+        "price": 3.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "ladbrokes_uk",
+    "title": "Ladbrokes",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.95
+       },
+       {
+        "name": "Valencia",
+        "price": 3.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betvictor",
+    "title": "Bet Victor",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.8
+       },
+       {
+        "name": "Valencia",
+        "price": 3.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "codere_it",
+    "title": "Codere (IT)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.95
+       },
+       {
+        "name": "Valencia",
+        "price": 4.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "livescorebet",
+    "title": "LiveScore Bet",
+    "last_update": "2026-11-18T19:34:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:58Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.93
+       },
+       {
+        "name": "Valencia",
+        "price": 3.75
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "virginbet",
+    "title": "Virgin Bet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.91
+       },
+       {
+        "name": "Valencia",
+        "price": 3.7
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_se",
+    "title": "Unibet (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 2.02
+       },
+       {
+        "name": "Valencia",
+        "price": 4.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_nl",
+    "title": "Unibet (NL)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 2.0
+       },
+       {
+        "name": "Valencia",
+        "price": 4.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "grosvenor",
+    "title": "Grosvenor",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.94
+       },
+       {
+        "name": "Valencia",
+        "price": 3.85
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas_se",
+    "title": "LeoVegas (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.93
+       },
+       {
+        "name": "Valencia",
+        "price": 3.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pmu_fr",
+    "title": "PMU (FR)",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.83
+       },
+       {
+        "name": "Valencia",
+        "price": 3.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coolbet",
+    "title": "Coolbet",
+    "last_update": "2026-11-18T19:35:01Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:01Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.97
+       },
+       {
+        "name": "Valencia",
+        "price": 4.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "casumo",
+    "title": "Casumo",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.91
+       },
+       {
+        "name": "Valencia",
+        "price": 3.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betano_uk",
+    "title": "Betano (UK)",
+    "last_update": "2026-11-18T19:33:48Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:33:48Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.8
+       },
+       {
+        "name": "Valencia",
+        "price": 3.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "matchbook",
+    "title": "Matchbook",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.97
+       },
+       {
+        "name": "Valencia",
+        "price": 4.3
+       },
+       {
+        "name": "Draw",
+        "price": 3.7
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.98
+       },
+       {
+        "name": "Valencia",
+        "price": 4.5
+       },
+       {
+        "name": "Draw",
+        "price": 3.75
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Rayo Vallecano",
+        "price": 1.93
+       },
+       {
+        "name": "Valencia",
+        "price": 4.21
+       },
+       {
+        "name": "Draw",
+        "price": 3.6
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1bb4951d418dcb641c608e085b87a1c3",
+  "sport_key": "soccer_spain_la_liga",
+  "sport_title": "La Liga - Spain",
+  "commence_time": "2026-11-21T17:30:00Z",
+  "home_team": "Sevilla",
+  "away_team": "Real Betis",
+  "bookmakers": [
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.4
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.99
+       },
+       {
+        "name": "Draw",
+        "price": 3.57
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "smarkets",
+    "title": "Smarkets",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.42
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.46
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_fr",
+    "title": "Winamax (FR)",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betsson",
+    "title": "Betsson",
+    "last_update": "2026-11-18T19:34:44Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.35
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.95
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "onexbet",
+    "title": "1xBet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:14Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.46
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.99
+       },
+       {
+        "name": "Draw",
+        "price": 3.63
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "marathonbet",
+    "title": "Marathon Bet",
+    "last_update": "2026-11-18T19:35:06Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:03Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.4
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.91
+       },
+       {
+        "name": "Draw",
+        "price": 3.54
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfred_uk",
+    "title": "Betfred (UK)",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.38
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.88
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill",
+    "title": "William Hill",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "nordicbet",
+    "title": "Nordic Bet",
+    "last_update": "2026-11-18T19:35:00Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:00Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.35
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.92
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "tipico_de",
+    "title": "Tipico",
+    "last_update": "2026-11-18T19:35:20Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:20Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.1
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas",
+    "title": "LeoVegas",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.38
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.75
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_fr",
+    "title": "Unibet (FR)",
+    "last_update": "2026-11-18T19:35:16Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "winamax_de",
+    "title": "Winamax (DE)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.35
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.75
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_uk",
+    "title": "Unibet (UK)",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.4
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.85
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "boylesports",
+    "title": "BoyleSports",
+    "last_update": "2026-11-18T19:35:36Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:36Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.62
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betway",
+    "title": "Betway",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.88
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "paddypower",
+    "title": "Paddy Power",
+    "last_update": "2026-11-18T19:34:09Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:09Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "skybet",
+    "title": "Sky Bet",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_eu",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.44
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.15
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.46
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_ex_uk",
+    "title": "Betfair",
+    "last_update": "2026-11-18T19:35:32Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.44
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.15
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.46
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betfair_sb_uk",
+    "title": "Betfair Sportsbook",
+    "last_update": "2026-11-18T19:34:59Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:59Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "everygame",
+    "title": "Everygame",
+    "last_update": "2026-11-18T19:31:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:31:29Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "ladbrokes_uk",
+    "title": "Ladbrokes",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.9
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coral",
+    "title": "Coral",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:41Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betvictor",
+    "title": "Bet Victor",
+    "last_update": "2026-11-18T19:35:17Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:16Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.15
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.6
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "codere_it",
+    "title": "Codere (IT)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.43
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.85
+       },
+       {
+        "name": "Draw",
+        "price": 3.35
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "grosvenor",
+    "title": "Grosvenor",
+    "last_update": "2026-11-18T19:34:43Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:43Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.33
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_se",
+    "title": "Unibet (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.43
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.95
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "unibet_nl",
+    "title": "Unibet (NL)",
+    "last_update": "2026-11-18T19:34:42Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:42Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.4
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.95
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "leovegas_se",
+    "title": "LeoVegas (SE)",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pmu_fr",
+    "title": "PMU (FR)",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.2
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.65
+       },
+       {
+        "name": "Draw",
+        "price": 3.25
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "livescorebet",
+    "title": "LiveScore Bet",
+    "last_update": "2026-11-18T19:34:58Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:34:58Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.3
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.8
+       },
+       {
+        "name": "Draw",
+        "price": 3.45
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "virginbet",
+    "title": "Virgin Bet",
+    "last_update": "2026-11-18T19:35:15Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:15Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.28
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.75
+       },
+       {
+        "name": "Draw",
+        "price": 3.3
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "coolbet",
+    "title": "Coolbet",
+    "last_update": "2026-11-18T19:35:01Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:01Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.43
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.0
+       },
+       {
+        "name": "Draw",
+        "price": 3.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "casumo",
+    "title": "Casumo",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.25
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.88
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betano_uk",
+    "title": "Betano (UK)",
+    "last_update": "2026-11-18T19:33:48Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:33:48Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.15
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.62
+       },
+       {
+        "name": "Draw",
+        "price": 3.4
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "matchbook",
+    "title": "Matchbook",
+    "last_update": "2026-11-18T19:35:31Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.44
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.15
+       },
+       {
+        "name": "Draw",
+        "price": 3.55
+       }
+      ]
+     },
+     {
+      "key": "h2h_lay",
+      "last_update": "2026-11-18T19:35:31Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.46
+       },
+       {
+        "name": "Sevilla",
+        "price": 3.2
+       },
+       {
+        "name": "Draw",
+        "price": 3.65
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-18T19:35:30Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-11-18T19:35:30Z",
+      "outcomes": [
+       {
+        "name": "Real Betis",
+        "price": 2.4
+       },
+       {
+        "name": "Sevilla",
+        "price": 2.96
+       },
+       {
+        "name": "Draw",
+        "price": 3.57
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

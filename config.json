@@ -1,0 +1,47 @@
+{
+  "mode": "paper",
+  "provider": "demo",
+  "execution": "paper",
+  "reference": "none",
+
+  "bankroll": 1000.0,
+  "currency": "USD",
+  "kelly_fraction": 0.25,
+  "max_stake_pct": 0.02,
+  "daily_stake_cap_pct": 0.05,
+  "min_stake": 1.0,
+  "stop_loss_pct": 0.15,
+
+  "target_odds": 2.0,
+  "odds_tolerance": 0.08,
+  "legs": 2,
+  "min_leg_odds": 1.2,
+  "max_leg_odds": 1.85,
+  "min_probability": 0.55,
+  "min_combo_probability": 0.4,
+  "min_edge": 0.02,
+  "pool_edge_floor": -0.03,
+  "max_overround": 0.12,
+  "allow_zero_edge": false,
+  "max_bets_per_day": 1,
+
+  "sports": [
+    "soccer_epl",
+    "soccer_spain_la_liga",
+    "soccer_italy_serie_a",
+    "soccer_germany_bundesliga",
+    "soccer_france_ligue_one",
+    "soccer_uefa_champs_league",
+    "soccer_netherlands_eredivisie",
+    "soccer_portugal_primeira_liga"
+  ],
+  "markets": ["h2h"],
+  "regions": "eu,uk",
+  "max_candidates": 60,
+  "min_lead_minutes": 45,
+  "ps3838_sport_ids": [29],
+
+  "db_path": "data/bets.db",
+  "reports_dir": "reports",
+  "auto_confirm_live": false
+}

@@ -1,0 +1,16 @@
+# Secrets and raw state - only the encrypted state/*.enc blobs are committed.
+.env
+data/*.db
+data/*.db-*
+data/betpawa-session.json
+data/web-token.txt
+data/state-passphrase.txt
+
+# Run artefacts
+reports/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

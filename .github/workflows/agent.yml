@@ -1,0 +1,110 @@
+name: Bet Agent Shift
+
+# Public repo = unlimited free Actions minutes. A private repo is capped at
+# 2,000 minutes/month, which is why this workflow assumes `git push` to a
+# PUBLIC repository. Four shifts a day, each just under the 6 h job ceiling,
+# keep the runner warm instead of cold-starting a browser every 5 minutes.
+
+on:
+  schedule:
+    # GitHub may delay scheduled runs; the +23 offset avoids the top-of-hour rush.
+    - cron: '23 0,6,12,18 * * *'
+  workflow_dispatch:
+    inputs:
+      shift_minutes:
+        description: 'Shift length (max 350)'
+        required: false
+        default: '345'
+      fixed_stake:
+        description: 'New fixed stake in TZS (blank = keep current)'
+        required: false
+        default: ''
+      auto_place:
+        description: 'Auto-place setting (persisted for future shifts)'
+        type: choice
+        required: false
+        default: 'keep'
+        options:
+          - keep
+          - 'on'
+          - 'off'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bet-agent-shift
+  cancel-in-progress: false
+
+jobs:
+  shift:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install browser runtime
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Apply phone overrides
+        env:
+          FIXED_STAKE: ${{ github.event.inputs.fixed_stake }}
+          AUTO_PLACE: ${{ github.event.inputs.auto_place }}
+        run: python cloud/override_config.py --config config.github.json
+
+      - name: Write .env from Secrets
+        env:
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+          LIVE_CONFIRM: ${{ secrets.LIVE_CONFIRM }}
+          STATE_PASSPHRASE: ${{ secrets.STATE_PASSPHRASE }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python cloud/write_env.py
+
+      - name: Restore encrypted session and ledger
+        id: unpack
+        env:
+          STATE_PASSPHRASE: ${{ secrets.STATE_PASSPHRASE }}
+        run: python cloud/state.py unpack
+
+      - name: Run long shift
+        env:
+          LIVE_CONFIRM: ${{ secrets.LIVE_CONFIRM }}
+          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
+        run: >-
+          python cloud/shift.py
+          --config config.github.json
+          --minutes "${{ github.event.inputs.shift_minutes || '345' }}"
+          --scan-interval 60
+          --min-quota 20
+
+      - name: Encrypt session and ledger
+        id: pack
+        if: always() && steps.unpack.outcome == 'success'
+        env:
+          STATE_PASSPHRASE: ${{ secrets.STATE_PASSPHRASE }}
+        run: python cloud/state.py pack
+
+      - name: Commit state for the next shift
+        if: always() && steps.unpack.outcome == 'success'
+        run: |
+          git config user.name "bet-agent bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state cloud/last-run.json config.github.json || true
+          if git diff --cached --quiet; then
+            echo "No state change to commit."
+          else
+            git commit -m "cloud state [skip ci]"
+            git push
+          fi
