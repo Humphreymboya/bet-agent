@@ -1,7 +1,22 @@
 {
-  "at": "2026-11-19T05:33:48Z",
-  "event": "refused",
-  "reasons": [
-    "auto_place_enabled is false"
-  ]
+  "at": "2026-11-19T21:41:14Z",
+  "event": "shift_end",
+  "summary": {
+    "scans": 6,
+    "bets": 0,
+    "failures": 0,
+    "quota": "232"
+  },
+  "state": {
+    "month": "2026-11",
+    "scans": 6,
+    "bets": 0,
+    "quota_remaining": 232,
+    "last_scan": "2026-11-19T20:56:22Z",
+    "last_result": {
+      "ok": false,
+      "message": "best available combo has +0.1% EV, below the 2.0% threshold",
+      "status": ""
+    }
+  }
 }
