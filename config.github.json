@@ -3,15 +3,17 @@
   "provider": "betpawa",
   "execution": "betpawa",
   "reference": "theoddsapi",
+
   "bankroll": 2100.0,
   "currency": "TZS",
   "kelly_fraction": 0.25,
   "fixed_stake_enabled": true,
   "fixed_stake": 200.0,
-  "max_stake_pct": 0.1,
-  "daily_stake_cap_pct": 0.2,
+  "max_stake_pct": 0.10,
+  "daily_stake_cap_pct": 0.20,
   "min_stake": 1.0,
   "stop_loss_pct": 0.15,
+
   "target_odds": 2.0,
   "odds_tolerance": 0.08,
   "legs": 2,
@@ -24,33 +26,33 @@
   "max_overround": 0.12,
   "allow_zero_edge": false,
   "max_bets_per_day": 1,
+
   "sports": [
     "soccer_epl",
     "soccer_spain_la_liga",
     "soccer_italy_serie_a",
     "soccer_germany_bundesliga"
   ],
-  "markets": [
-    "h2h"
-  ],
+  "markets": ["h2h"],
   "venue_book": "betpawa",
   "regions": "eu,uk",
   "max_candidates": 60,
   "min_lead_minutes": 45,
-  "ps3838_sport_ids": [
-    29
-  ],
+  "ps3838_sport_ids": [29],
+
   "betpawa_url": "https://www.betpawa.co.tz",
   "betpawa_session_path": "data/betpawa-session.json",
   "betpawa_headless": true,
   "betpawa_dry_run": false,
-  "auto_place_enabled": false,
+  "auto_place_enabled": true,
   "betpawa_max_slippage": 0.02,
   "betpawa_timeout_ms": 20000,
   "betpawa_selectors": {},
+
   "ai_enabled": false,
   "ai_influence": false,
   "ai_max_prob_adjustment": 0.03,
+
   "db_path": "data/bets-betpawa.db",
   "reports_dir": "reports",
   "auto_confirm_live": false
