@@ -1,11 +1,7 @@
 {
-  "at": "2026-11-18T20:37:13Z",
-  "event": "shift_end",
-  "summary": {
-    "scans": 0,
-    "bets": 0,
-    "failures": 0,
-    "quota": null
-  },
-  "state": {}
+  "at": "2026-11-19T05:33:48Z",
+  "event": "refused",
+  "reasons": [
+    "auto_place_enabled is false"
+  ]
 }
