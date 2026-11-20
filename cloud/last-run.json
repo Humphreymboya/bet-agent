@@ -1,21 +1,21 @@
 {
-  "at": "2026-11-20T06:27:23Z",
+  "at": "2026-11-20T21:22:14Z",
   "event": "shift_end",
   "summary": {
-    "scans": 6,
+    "scans": 4,
     "bets": 0,
     "failures": 0,
-    "quota": "184"
+    "quota": "152"
   },
   "state": {
     "month": "2026-11",
-    "scans": 12,
+    "scans": 16,
     "bets": 0,
-    "quota_remaining": 184,
-    "last_scan": "2026-11-20T05:42:31Z",
+    "quota_remaining": 152,
+    "last_scan": "2026-11-20T19:37:18Z",
     "last_result": {
       "ok": false,
-      "message": "best available combo has +0.0% EV, below the 2.0% threshold",
+      "message": "best available combo has -0.2% EV, below the 2.0% threshold",
       "status": ""
     }
   }
