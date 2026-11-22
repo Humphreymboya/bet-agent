@@ -1,12 +1,12 @@
 {
   "month": "2026-11",
-  "scans": 22,
+  "scans": 25,
   "bets": 1,
-  "quota_remaining": 104,
-  "last_scan": "2026-11-21T11:24:17Z",
+  "quota_remaining": 80,
+  "last_scan": "2026-11-21T23:28:08Z",
   "last_result": {
-    "ok": true,
-    "message": "",
-    "status": "accepted"
+    "ok": false,
+    "message": "daily bet limit already reached",
+    "status": ""
   }
 }
