@@ -1,12 +1,12 @@
 {
   "month": "2026-11",
-  "scans": 34,
+  "scans": 36,
   "bets": 2,
   "quota_remaining": 32,
-  "last_scan": "2026-11-24T04:02:32Z",
+  "last_scan": "2026-11-24T14:04:53Z",
   "last_result": {
     "ok": false,
-    "message": "best available combo has -3.5% EV, below the 2.0% threshold",
+    "message": "best available combo has -3.4% EV, below the 2.0% threshold",
     "status": ""
   }
 }
