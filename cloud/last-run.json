@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-25T04:20:55Z",
+  "at": "2026-11-25T14:35:43Z",
   "event": "shift_end",
   "summary": {
-    "scans": 2,
+    "scans": 0,
     "bets": 0,
     "failures": 0,
-    "quota": "16"
+    "quota": null
   },
   "state": {
     "month": "2026-11",
